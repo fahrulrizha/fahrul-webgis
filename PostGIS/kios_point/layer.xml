@@ -1,0 +1,16 @@
+<layer>
+  <name>kios_point</name>
+  <id>LayerInfoImpl--447dffc6:18c7ee15d19:-7fe2</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--447dffc6:18c7ee15d19:-7fe3</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-12-18 21:59:42.854 UTC</dateCreated>
+</layer>

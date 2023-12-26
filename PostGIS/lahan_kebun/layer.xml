@@ -1,0 +1,16 @@
+<layer>
+  <name>lahan_kebun</name>
+  <id>LayerInfoImpl--447dffc6:18c7ee15d19:-7fe0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe0</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--447dffc6:18c7ee15d19:-7fe1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-12-18 22:00:02.545 UTC</dateCreated>
+</layer>
